@@ -5,9 +5,9 @@
     "version": "1.1.2"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v1.1.2/release.json",
-    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v1.1.2/Roast.Time-1.1.2.dmg",
-    "version": "1.1.2"
+    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.0.0/release.json",
+    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.0.0/Roast.Time-2.0.0.dmg",
+    "version": "2.0.0"
   },
   "linux-x64-prod": {
     "update": "https://github.com/roastworld/roast-time-release/releases/download/v1.1.2/aillio-ts-1.1.2-x86_64.AppImage",
