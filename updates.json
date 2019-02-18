@@ -20,9 +20,9 @@
     "version": "2.0.9-beta"
   },
   "darwin-x64-alpha": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-alpha-v2.0.9-alpha/release.json",
-    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-alpha-v2.0.9-alpha/RoasTime-2.0.9-alpha.dmg",
-    "version": "2.0.9-alpha"
+    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.1.0-beta/release.json",
+    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.1.0-beta/RoasTime-2.1.0-beta.dmg",
+    "version": "2.1.0-beta"
   },
   "win32-ia32-alpha": {
     "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-alpha-v2.0.9-alpha",
@@ -35,9 +35,9 @@
     "version": "2.0.9-alpha"
   },
   "darwin-x64-latest": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-latest-v2.0.8-beta/release.json",
-    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-latest-v2.0.8-beta/RoasTime-2.0.8-beta.dmg",
-    "version": "2.0.8-beta"
+    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.1.0-beta/release.json",
+    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.1.0-beta/RoasTime-2.1.0-beta.dmg",
+    "version": "2.1.0-beta"
   },
   "win32-ia32-latest": {
     "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-latest-v2.0.8-beta",
