@@ -15,9 +15,9 @@
     "version": "2.4.2-alpha"
   },
   "win32-ia32-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.4.2-alpha",
-    "install": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.4.2-alpha/RoasTime.Setup.2.4.2-alpha.exe",
-    "version": "2.4.2-alpha"
+    "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.4.3-alpha",
+    "install": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.4.3-alpha/RoasTime.Setup.2.4.3-alpha.exe",
+    "version": "2.4.3-alpha"
   },
   "darwin-x64-alpha": {
     "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-alpha-v2.2.1-alpha/release.json",
