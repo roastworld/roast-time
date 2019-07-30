@@ -1,0 +1,22 @@
+[{ 
+  "version": "2.5.0-beta",
+  "notes": [
+    "Added `Messages` area",
+    "Pull in release notes and announcements.",
+    "Added recently viewed roasts section to the dashboard."
+  ]
+},{ 
+  "version": "2.4.0-beta",
+  "notes": [
+    "Added a `Copy ID` button to post roast view for support to help debugging.",
+    "Fixed a bug with editing IR/BT triggers.",
+    "Allowed cancelling of playback in preheat mode.",
+    "Added a button allowing you to switch between IBTS and Probe temperatures in recipes.",
+    "Updated text on roaster charged notification.",
+    "Added time on chart hover when viewin your roast.",
+    "Removed redundant `View Roast Notes` button.",
+    "Added overlaying profiles when not roasting.",
+    "Allowed overlaying other profiles even when in recipe or playback mode.",
+    "Improved roaster logging for support team."
+  ]
+}]
