@@ -3,7 +3,9 @@
   "notes": [
     "Added `Messages` area",
     "Pull in release notes and announcements.",
-    "Added recently viewed roasts section to the dashboard."
+    "Added recently viewed roasts section to the dashboard.",
+    "Fixed issue with overlay not working after first cancel.",
+    "Fixed C->F issue where F makes chart `bounce` around."
   ]
 },{ 
   "version": "2.4.0-beta",
