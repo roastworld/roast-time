@@ -1,4 +1,13 @@
 [{ 
+  "version": "2.5.0-stable",
+  "notes": [
+    "All previous beta additions.",
+    "Fixed line coloring for ROR->Exit Temp after adding theming.",
+    "Added hover hints over sidebar icons.",
+    "Added recipe deletion.",
+    "Added recipe cloning."
+  ]
+},{ 
   "version": "2.5.0-beta",
   "notes": [
     "Added `Messages` area",
