@@ -1,4 +1,12 @@
 [{ 
+  "version": "2.5.3-beta",
+  "notes": [
+    "Added the help desk.",
+    "Fixed line coloring issue.",
+    "Fixed internal logging issues.",
+    "Added exit buttons for modals (pop ups)."
+  ]
+},{ 
   "version": "2.5.0-stable",
   "notes": [
     "All previous beta additions.",
