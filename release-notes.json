@@ -1,4 +1,9 @@
 [{ 
+  "version": "2.5.5-beta",
+  "notes": [
+    "Logging fixes and improvements."
+  ]
+},{ 
   "version": "2.5.3-beta",
   "notes": [
     "Added the help desk.",
