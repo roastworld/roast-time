@@ -5,9 +5,9 @@
     "version": "2.5.5-alpha"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.5-alpha/release.json",
-    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.5-alpha/RoasTime-2.5.5-alpha.dmg",
-    "version": "2.5.5-alpha"
+    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.5-beta/release.json",
+    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.5-beta/RoasTime-2.5.5-beta.dmg",
+    "version": "2.5.5-beta"
   },
   "linux-x64-prod": {
     "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.5-alpha/aillio-ts-2.5.5-alpha-x86_64.AppImage",
