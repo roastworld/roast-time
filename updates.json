@@ -5,9 +5,9 @@
     "version": "0.0.1-internal"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.5-beta/release.json",
-    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.5-beta/RoasTime-2.5.5-beta.dmg",
-    "version": "2.5.5-beta"
+    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v0.0.1-internal/release.json",
+    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v0.0.1-internal/RoasTime-0.0.1-internal.dmg",
+    "version": "0.0.1-internal"
   },
   "linux-x64-prod": {
     "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v0.0.1-internal/RoasTime-0.0.1-internal.AppImage",
