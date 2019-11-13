@@ -1,23 +1,23 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/win32-x64-prod-v0.0.1-internal",
-    "install": "https://github.com/roastworld/roast-time/releases/download/win32-x64-prod-v0.0.1-internal/RoasTime.Setup.0.0.1-internal.exe",
-    "version": "0.0.1-internal"
+    "update": "https://github.com/roastworld/roast-time/releases/download/win32-x64-prod-v2.5.5-beta",
+    "install": "https://github.com/roastworld/roast-time/releases/download/win32-x64-prod-v2.5.5-beta/RoasTime.Setup.2.5.5-beta.exe",
+    "version": "2.5.5-beta"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v0.0.1-internal/release.json",
-    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v0.0.1-internal/RoasTime-0.0.1-internal.dmg",
-    "version": "0.0.1-internal"
+    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.5-beta/release.json",
+    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.5-beta/RoasTime-2.5.5-beta.dmg",
+    "version": "2.5.5-beta"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v0.0.1-internal/RoasTime-0.0.1-internal.AppImage",
-    "install": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v0.0.1-internal/RoasTime-0.0.1-internal.AppImage",
-    "version": "0.0.1-internal"
+    "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.5-beta/aillio-ts-2.5.5-beta-x86_64.AppImage",
+    "install": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.5-beta/aillio-ts-2.5.5-beta-x86_64.AppImage",
+    "version": "2.5.5-beta"
   },
   "win32-ia32-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v0.0.1-internal",
-    "install": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v0.0.1-internal/RoasTime.Setup.0.0.1-internal.exe",
-    "version": "0.0.1-internal"
+    "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.5.5-beta",
+    "install": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.5.5-beta/RoasTime.Setup.2.5.5-beta.exe",
+    "version": "2.5.5-beta"
   },
   "darwin-x64-alpha": {
     "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-alpha-v2.2.1-alpha/release.json",
