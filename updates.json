@@ -10,9 +10,9 @@
     "version": "2.5.6-alpha"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.5-beta/aillio-ts-2.5.5-beta-x86_64.AppImage",
-    "install": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.5-beta/aillio-ts-2.5.5-beta-x86_64.AppImage",
-    "version": "2.5.5-beta"
+    "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.6-alpha/RoasTime-2.5.6-alpha.AppImage",
+    "install": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.6-alpha/RoasTime-2.5.6-alpha.AppImage",
+    "version": "2.5.6-alpha"
   },
   "win32-ia32-prod": {
     "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.5.5-beta",
