@@ -10,14 +10,14 @@
     "version": "2.5.6-alpha"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.6-beta/RoasTime-2.5.6-beta.AppImage",
-    "install": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.6-beta/RoasTime-2.5.6-beta.AppImage",
-    "version": "2.5.6-beta"
+    "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.6-alpha/RoasTime-2.5.6-alpha.AppImage",
+    "install": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.6-alpha/RoasTime-2.5.6-alpha.AppImage",
+    "version": "2.5.6-alpha"
   },
   "win32-ia32-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.5.6-alpha",
-    "install": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.5.6-alpha/RoasTime.Setup.2.5.6-alpha.exe",
-    "version": "2.5.6-alpha"
+    "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.5.6-beta",
+    "install": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.5.6-beta/RoasTime.Setup.2.5.6-beta.exe",
+    "version": "2.5.6-beta"
   },
   "darwin-x64-alpha": {
     "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-alpha-v2.2.1-alpha/release.json",
