@@ -1,4 +1,12 @@
 [{ 
+  "version": "2.5.6-beta",
+  "notes": [
+    "MacOS Catalina capatibility.",
+    "Migration of backend systems.",
+    "Authentication system updates.",
+    "Internal improvements and dependency updates."
+  ]
+},{ 
   "version": "2.5.5-beta",
   "notes": [
     "Logging fixes and improvements."
