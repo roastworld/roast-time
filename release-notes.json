@@ -7,6 +7,11 @@
     "Internal improvements and dependency updates."
   ]
 },{ 
+  "version": "2.5.5-stable",
+  "notes": [
+    "Everything from 2.5.5-beta."
+  ]
+},{ 
   "version": "2.5.5-beta",
   "notes": [
     "Logging fixes and improvements."
