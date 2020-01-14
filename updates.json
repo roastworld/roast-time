@@ -5,9 +5,9 @@
     "version": "2.5.5-stable"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.5-stable/release.json",
-    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.5-stable/RoasTime-2.5.5-stable.dmg",
-    "version": "2.5.5-stable"
+    "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.6-stable/release.json",
+    "install": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-prod-v2.5.6-stable/RoasTime-2.5.6-stable.dmg",
+    "version": "2.5.6-stable"
   },
   "linux-x64-prod": {
     "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v3.0.0-internal/RoasTime-3.0.0-internal.AppImage",
