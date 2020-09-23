@@ -10,9 +10,9 @@
     "version": "2.5.6-stable"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v3.0.1-internal/RoasTime-3.0.1-internal.AppImage",
-    "install": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v3.0.1-internal/RoasTime-3.0.1-internal.AppImage",
-    "version": "3.0.1-internal"
+    "update": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.6-beta/RoasTime-2.5.6-beta.AppImage",
+    "install": "https://github.com/roastworld/roast-time/releases/download/linux-x64-prod-v2.5.6-beta/RoasTime-2.5.6-beta.AppImage",
+    "version": "2.5.6-beta"
   },
   "win32-ia32-prod": {
     "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v3.0.1-internal",
