@@ -15,9 +15,9 @@
     "version": "2.5.7-internal"
   },
   "win32-ia32-prod": {
-    "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v3.0.1-internal",
-    "install": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v3.0.1-internal/RoasTime.Setup.3.0.1-internal.exe",
-    "version": "3.0.1-internal"
+    "update": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.5.7-internal",
+    "install": "https://github.com/roastworld/roast-time/releases/download/win32-ia32-prod-v2.5.7-internal/RoasTime.Setup.2.5.7-internal.exe",
+    "version": "2.5.7-internal"
   },
   "darwin-x64-alpha": {
     "update": "https://github.com/roastworld/roast-time/releases/download/darwin-x64-alpha-v2.2.1-alpha/release.json",
